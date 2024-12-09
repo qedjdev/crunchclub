@@ -1,0 +1,6 @@
+mongo-data/
+node_modules/
+.env
+.idea/
+package-lock.json
+uploads/
